@@ -9,7 +9,7 @@ export const Robots = [
            id: 2,
            name: "Tedie Ebi",
            email: "tebi1@seattletimes.com",
-           job: "Business Systems Development Analyst"
+           job: "Software Developer"
          },
          {
            id: 3,
